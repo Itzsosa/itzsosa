@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏢A skilled developer with a deep passion for Web Technologies and experience in front-end development<br>🔭I'm currently working on Side Projects<br>🏫Currently learning React<br>⭐Ask me about Angular
+🏢A skilled developer with a deep passion for Web Technologies and experience in front-end development<br>🔭I'm currently working on Side Projects<br>🏫Currently learning IMS<br>⭐Ask me about Web Devlepment
 
 
 ## 🌐 Socials:
