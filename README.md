@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏢A skilled developer with a deep passion for DevOps and experience in Fullstack development<br>🔭I'm currently working on Python<br>🏫Currently learning IMS<br>⭐Ask me about Web Development
+🏢A skilled developer with a deep passion for DevOps and experience in Fullstack development<br>🔭I'm currently working with Python<br>🏫Currently learning IMS<br>⭐Ask me about Web Development
 
 
 ## 🌐 Socials:
